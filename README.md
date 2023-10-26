@@ -1,4 +1,4 @@
-# About-Me
-Currently, my main focus is completing my computer science courses and enhancing my skills as a future software engineer. During my free time, I enjoy developing quality of life applications using random coding languages that interest me from time to time. You can check out my latest projects on my website at https://sites.google.com/view/groundedchild.
+About Me
+I am an 18-year-old who is currently trying to improve my skills in software engineering and Roblox game creation. As of right now, I am putting most of my effort into learning Lua for Roblox scripting. I prefer to work independently unless I am too stuck to complete a project by myself. I do not share my contact information or collaborate with others unless I really trust them. All the projects listed on my account are personal experiments, and they do not reflect any professional or commercial goals.
 
-### Discord: GroundedChild#5571
+My website:
